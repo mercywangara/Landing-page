@@ -1,0 +1,174 @@
+a{
+    color: red;
+}
+ul{
+    display: flex;
+    gap: 5%;
+    align-items: center;
+    list-style: none;
+}
+.one_click{
+    display: flex;
+    gap: 25%;
+    justify-self: center;
+}
+#intro{
+    font-size: 50px;
+}
+.platforms{
+    justify-self: center;
+}
+#rating{
+    text-align: center;
+}
+#platforms{
+    display: flex;
+    gap: 30%;
+  }
+#microsoft{
+    width: 15px;
+    height: 15px;
+}
+.products{
+    justify-self: center;
+}
+#product{
+    text-align: center;
+    font-size: 50px;
+}
+.product{
+    display: flex;
+    gap: 15%;
+}
+.product_interface{
+    border: solid 1px purple;
+    background-color: white;
+    width: 25%;
+    border-radius: 10%;
+    height: 12%;
+}
+.rate_section{
+    justify-self: center;
+}
+.rated{
+    font-size: 50px;
+}
+.rate{
+    font-size: 50px;
+}
+#rate_image{
+    width: 110%;
+    height:110%;
+}
+.mobile{
+    justify-self: center;
+}
+.help{
+    font-size: 50px;
+    text-align: center;
+}
+.transfers{
+    background-color: white;
+}
+.support{
+    background-color: white;
+}
+.rates{
+    display: flex;
+    gap: 15%;
+}
+.users{
+    display: flex;
+    gap: 10%;
+}
+.subscribers{
+    display: flex;
+    gap: 10%;
+}
+.interface{
+    display: flex;
+    gap: 15%;
+}
+.know_more{
+    color: white;
+    border: rgba(11, 11, 34, 0.726);
+    background-color: rgb(10, 10, 58);
+    width: 110px;
+    height: 45px;
+    border-radius: 15px;
+}
+.client{
+    justify-self: center;
+}
+#client{
+    font-size: 50px;
+    text-align: center;
+}
+.witnesses{
+    display: flex;
+    gap: 5%;
+}
+.witness{
+    border: 1px solid purple;
+    border-radius: 20px;
+    padding: 5%;
+    width: 35%;
+    height: 5%;
+}
+.witness_right{
+    background-color: white;
+    border: 1px solid white;
+}
+.store_buttons{
+    display: flex;
+    gap: 5%;
+}
+.apple_button{
+    color: white;
+    background-color: rgb(15, 15, 61);
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+}
+.playstore_button{
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+}
+.usage{
+    justify-self: center;
+}
+.users{
+    display: flex;
+    gap: 50%;
+}
+#final_image{
+    width: 310%;
+    height: 90%;
+}
+#download{
+    font-size: 50px;
+}
+#mobile{
+    font-size: 50px;
+}
+.footer_info{
+    justify-self: center;
+    width: 90%;
+}
+.footer_resources{
+    border: solid 1px;
+    color: white;
+    background-color: rgb(1, 1, 26);
+    height: 300px;
+   }
+.footer_copyright{
+    border: solid 1px;
+    color: white;
+    background-color: black;
+    display: flex;
+    gap: 50%;
+    height: 50px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
